@@ -1,0 +1,3 @@
+[submodule "go"]
+	path = go
+	url = https://github.com/takak2166/isucon12y-go.git
